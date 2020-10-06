@@ -1,0 +1,2 @@
+REPORT ZTEST_ABAP_GIT.
+write: 'This is first GIT program'.
