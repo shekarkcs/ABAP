@@ -5,4 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT ZTEST_ABAP_GIT1.
 
-write: 'this is from abap'.
+write: 'this is from git'.
